@@ -1,0 +1,25 @@
+# Core LLM + Transformers
+transformers
+accelerate
+bitsandbytes
+
+# Sentence embeddings
+sentence-transformers
+
+# Vector DB
+faiss-cpu
+
+# Backend server
+flask
+
+# Environment handling
+python-dotenv
+
+# Tunneling for Colab
+pyngrok
+
+# For Streamlit UI (optional)
+streamlit
+
+# For HTTP requests
+requests
